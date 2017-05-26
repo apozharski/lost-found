@@ -1,0 +1,3 @@
+Problem statement:
+Generate a graph based solution for multi-agent "pursuit" systems, useful
+for modeling search and rescue as well as other pursuit systems.
